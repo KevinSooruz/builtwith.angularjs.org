@@ -3688,6 +3688,27 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Nearby",
+      "thumb": "nearby/nearby.png",
+      "desc": "Find places around you",
+      "url": "http://kevin-sourrue.fr/nearby/",
+      "info": "http://kevin-sourrue.fr/nearby/",
+      "src": "",
+      "submitter": "KevinSooruz",
+      "submissionDate": "2015-06-17",
+      "tags": [
+        "Production",
+        "Google Maps",
+        "Geolocation",
+        "Responsive",
+        "Bootstrap",
+        "Web App",
+        "CSS3",
+        "Javascript",
+        "No jQuery"
+      ]
     }
 
   ]
